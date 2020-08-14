@@ -1,8 +1,9 @@
 # Thinkpad T430s Hackintosh
-- Based on (this guide)[https://github.com/drasbeck/macos-thinkpad-t430].
+- Based on [this guide](https://github.com/drasbeck/macos-thinkpad-t430).
 - SSDT and DSDT has been patched.
 - Remember to regenerate your own ``SMBIOS`` information.
-- All basic features are functioning stably. Have been this machine as my daily driver for coding in the past 6 months and haven't encountered any serious disorder so far.
+- All basic features are functioning stably. Have been using this machine as my daily driver for coding, photo editing, office stuffs in the past 6 months and haven't encountered any serious disorder so far.
+<img align="center" src="https://raw.githubusercontent.com/phathung2001/Thinkpad-T430s-Hackintosh/master/Screen%20Shot%202020-08-14%20at%206.30.32%20PM.png"/>
 
 ## My specs
 - Model: Thinkpad T430s.
@@ -26,15 +27,16 @@
 - Wifi (using a ``Comfast CF-811AC dongle``).
 
 ## Partially working
-- ThinkPad ~~nipple~~ TrackPoint.
+- ThinkPad ~~nipple~~ TrackPoint (moving like a stair).
 
 ## Not tested
 - DisplayPort audio.
-- Internal mic (my internal is also broken).
-- Webcam (my webcam is also broken).
+- Internal mic (my hardware internal mic is broken).
+- Webcam (my hardware webcam is also broken).
 
 ## Not working
 - Bluetooth (with default BCM card).
 - Maybe something else I haven't tested?
 
+<div align="center">Hackurman<div/>
 <img src="https://raw.githubusercontent.com/phathung2001/phathung2001/master/terminal.png"/>
