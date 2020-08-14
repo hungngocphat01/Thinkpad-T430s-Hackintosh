@@ -22,9 +22,11 @@
 - Audio jack (external mic is also working).
 - Battery percentage.
 - Keyboard (``Fn`` keys are working as well).
+- Trackpad.
 - Caddybay.
 - Ethernet.
 - Wifi (using a ``Comfast CF-811AC dongle``).
+- USB ports.
 
 ## Partially working
 - ThinkPad ~~nipple~~ TrackPoint (moving like a stair).
