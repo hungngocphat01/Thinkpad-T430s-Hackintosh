@@ -4,6 +4,7 @@
 - Remember to regenerate your own ``SMBIOS`` information.
 - All basic features are functioning stably. Have been using this machine as my daily driver for coding, photo editing, office stuffs in the past 6 months and haven't encountered any serious disorder so far.
 <div align="center"><img src="https://raw.githubusercontent.com/phathung2001/Thinkpad-T430s-Hackintosh/master/Screen%20Shot%202020-08-14%20at%206.30.32%20PM.png"/><div/>
+<div align="right">
 
 ## My specs
 - Model: Thinkpad T430s.
@@ -39,6 +40,7 @@
 ## Not working
 - Bluetooth (with default BCM card).
 - Maybe something else I haven't tested?
+</div>
 
 <div align="center">Hackurman<div/>
 <img src="https://raw.githubusercontent.com/phathung2001/phathung2001/master/terminal.png"/>
